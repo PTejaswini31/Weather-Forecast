@@ -1,8 +1,13 @@
 Name: Tejaswini Panuganti
+
 Company: CODTECH IT SOLUTIONS
+
 ID: CT08WD39
+
 Domain: Web Development
+
 Duration: October 30th to November 30th 2024
+
 Mentor: SRAVANI GOUNI
 
 ### Url : https://tejaswini002.ccbp.tech/
